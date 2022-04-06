@@ -1,0 +1,14 @@
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\bin\Debug\netcoreapp3.1\MyExceptions.exe
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\bin\Debug\netcoreapp3.1\MyExceptions.deps.json
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\bin\Debug\netcoreapp3.1\MyExceptions.runtimeconfig.json
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\bin\Debug\netcoreapp3.1\MyExceptions.runtimeconfig.dev.json
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\bin\Debug\netcoreapp3.1\MyExceptions.dll
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\bin\Debug\netcoreapp3.1\MyExceptions.pdb
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\obj\Debug\netcoreapp3.1\MyExceptions.csproj.AssemblyReference.cache
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\obj\Debug\netcoreapp3.1\MyExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\obj\Debug\netcoreapp3.1\MyExceptions.AssemblyInfoInputs.cache
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\obj\Debug\netcoreapp3.1\MyExceptions.AssemblyInfo.cs
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\obj\Debug\netcoreapp3.1\MyExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\obj\Debug\netcoreapp3.1\MyExceptions.dll
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\obj\Debug\netcoreapp3.1\MyExceptions.pdb
+C:\Users\Emilia\Desktop\MyAllProjects\MyExceptions\MyExceptions\obj\Debug\netcoreapp3.1\MyExceptions.genruntimeconfig.cache
